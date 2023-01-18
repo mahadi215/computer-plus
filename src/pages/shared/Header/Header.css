@@ -1,0 +1,10 @@
+.navbar ul li{
+    font-weight: bold;
+}
+.navbar ul li a:hover{
+    background-color: white;
+    color: #0071bc;
+}
+marquee{
+    color: #0071bc;
+}
